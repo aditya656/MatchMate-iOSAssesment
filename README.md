@@ -15,8 +15,9 @@
 ### Setup: 
 
 1. Clone the repository and open it in Xcode.
+2. Run the command pod install
 
-2. Build and run the app on a simulator or device.
+3. Build and run the app on a simulator or device.
 
 ### Offline Mode: 
 
